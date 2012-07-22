@@ -1,2 +1,0 @@
-daytona-kernel
-==============
